@@ -1,7 +1,7 @@
-# Social Media Popularity Prediction
+# Social Media Popularity Prediction Using AIML
 
 ## About the Project
-Social Media Popularity Prediction is a machine learning project designed to analyze social media data and predict the popularity of content using data analysis and machine learning techniques.
+An AI/ML-based project for analyzing and predicting social media popularity using datasets and machine learning techniques
 
 ## Objectives
 - Analyze social media popularity patterns.
